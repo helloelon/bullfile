@@ -38,7 +38,7 @@ body.is_header_semitransparent #navbar .menu > .menu-item > a:hover {
 }
 .timelinehorizontal .arrows .arrow__next,
 .timelinehorizontal .arrows .arrow__prev {
-    color: #6cd087;
+    color: #6c73d0;
 } 
 .page-fill {
     background-color: #171055;
@@ -58,7 +58,7 @@ footer .footer {
     background-color: #2735b5 !important;
 }
 .cryptic-footer-one-page a {
-    color: #6cd087; 
+    color: #6c73d0;
 }
 .cryptic-footer-one-page a:hover {
     color: #a3d1ae; 

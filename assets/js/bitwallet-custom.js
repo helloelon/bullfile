@@ -963,7 +963,7 @@ jQuery(document).ready(function($){
             jQuery(".rev_slider #modeltheme-countdown").width(width_sumcountdown);
 
 
-            jQuery("#modeltheme-countdown").countdown("2018/07/12", function(event) {
+            jQuery("#modeltheme-countdown").countdown("2024/07/12", function(event) {
               jQuery(this).html(
                 event.strftime("<div class='days'>"
                                   +"<div class='days-digit' style='color:#ffffff;font-size: 60px !important;line-height: 50px !important;'>%D</div>"

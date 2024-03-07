@@ -5575,7 +5575,7 @@ END: WIDGET MONSTER FIX
     font-weight: 700;
     font-size: 13px !important;
     line-height: 13px !important;
-    border: 1px solid #6cd087 !important;
+    border: 1px solid #6c73d0 !important;
 }
 .buy-coin-decentralized button:hover {
     background: #2735b5 !important;
@@ -27309,7 +27309,7 @@ figure.effect-apollo:hover p {
     top: 20px;
     left: 20px;
     box-shadow: 0 0 25px rgba(0,0,0,.3);
-    background: #6cd087;
+    background: #6c73d0;
     font-size: 13px;
     border-radius: 5px;
 }
@@ -27732,7 +27732,7 @@ figure.effect-apollo:hover p {
     color: rgba(255,255,255,.7);
 }
 .cryptic-dark input.wpcf7-form-control.wpcf7-submit {
-    background: #6cd087 !important;
+    background: #6c73d0 !important;
 }
 .dark-version .mc4wp-form input {
     background: #202020;
@@ -27755,7 +27755,7 @@ figure.effect-apollo:hover p {
     color: rgba(255,255,255,.7);
 }
 .dark-version .mc4wp-form input[type="submit"] {
-    background: #6cd087 !important;
+    background: #6c73d0 !important;
 }
 .decentralized-version .mc4wp-form input {
     background: rgba(39, 53, 181, 0.9);
@@ -27776,9 +27776,9 @@ figure.effect-apollo:hover p {
     color: rgba(255,255,255,.7);
 }
 .decentralized-version .mc4wp-form input[type="submit"] {
-    background: #6cd087 !important;
+    background: #6c73d0 !important;
     height: 60px;
-    border: 1px solid #6cd087 !important;
+    border: 1px solid #6c73d0 !important;
 }
 .decentralized-version .mc4wp-form input[type="submit"]:hover {
     color: #fff !important;
@@ -28333,7 +28333,7 @@ p.position-test {
     display: block !important;
 }
 .testimonials02-container .owl-controls .owl-page.active span {
-    background: #6cd087 !important;
+    background: #6c73d0 !important;
 }
 .testimonials02-container .owl-controls .owl-page span {
     background: rgba(108, 208, 135, 0.50) !important;
@@ -29303,7 +29303,7 @@ section#cd-timeline.version2 .cd-timeline-img img {
 }
 section#cd-timeline.version2 .cd-timeline-content {
     background: #252525;
-    box-shadow: 0 3px 0 #6cd087;
+    box-shadow: 0 3px 0 #6c73d0;
     border-radius: 0;
     text-align: left;
     padding: 40px 30px;
@@ -29319,7 +29319,7 @@ section#cd-timeline.version2 .cd-timeline-content h3 {
     }
 }
 section#cd-timeline.version2 .mt_shortcode_timeline_items.cd-timeline-block .cd-read-more {
-    background: #6cd087;
+    background: #6c73d0;
     transition: all 300ms ease;
     -webkit-transition: all 300ms ease;
 }
@@ -29341,7 +29341,7 @@ section#cd-timeline.version2 .cd-timeline-block:nth-child(even) .cd-timeline-con
     border-right-color: #252525;
 }
 section#cd-timeline.version2::before {
-    background: #6cd087 !important;
+    background: #6c73d0 !important;
 }
 section#cd-timeline.version2 .cd-timeline-img.cd-picture {
     background: #151515;
@@ -29457,7 +29457,7 @@ section#cd-timeline.timeline_right .cd-timeline-content::before {
     border-radius: 0;
 }
 .tabs-shortcode.naccs .menu div.active span.light {
-    background-color: #6cd087;
+    background-color: #6c73d0;
 }
 .tabs-shortcode .naccs .menu div.active {
     color: #FBC02D;
@@ -29568,7 +29568,7 @@ section#cd-timeline.timeline_right .cd-timeline-content::before {
     transform: translateY(-50%);
     border-radius: 50%;
     background: #2735b5;
-    border: 4px solid #6cd087;
+    border: 4px solid #6c73d0;
     z-index: 1;
 }
 .timelinehorizontal ol li div {
