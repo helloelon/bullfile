@@ -1091,7 +1091,7 @@ ol {
   }
 }
 .header-wrapper .logo a img {
-  max-width: 100%;
+  height: 42px;
 }
 @media (max-width: 575px) {
   .header-wrapper .logo {
